@@ -18,4 +18,8 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 ![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
 
 ## Solução
-Solução finalizada.
+essa é a entrega do projeto, com alguns ajustes e melhorias para um extra.
+
+Agora temos uma verificação de qual o tipo de Suíte( temos 2 opções "Premium" e "Padrão")
+cada uma possuí uma capacidade e um valor diário especifico preenchido em Reserva.
+adicionado também o Valor Total da diária e a quantidade de dias reservados.
